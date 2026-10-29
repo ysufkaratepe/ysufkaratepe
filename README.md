@@ -13,4 +13,5 @@ Kocaeli Sağlık ve Teknoloji Üniversitesi'nde (KOSTÜ) **Bilgisayar Mühendisl
 
 ## 📫 İletişim
 
+- LinkedIn: [yusuf-karatepe](https://www.linkedin.com/in/yusuf-karatepe-0720923a1/)
 - E-posta: yusufkaratepekt@gmail.com
