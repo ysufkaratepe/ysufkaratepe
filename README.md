@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben Yusuf 👋
 
-<!--
-**ysufkaratepe/ysufkaratepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kocaeli Sağlık ve Teknoloji Üniversitesi'nde (KOSTÜ) **Bilgisayar Mühendisliği** 2. sınıf öğrencisiyim. Yazılım geliştirmeyi, problem çözmeyi ve yeni teknolojiler öğrenmeyi seviyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Diller:** Python
+- **Araçlar:** Git, GitHub, Tkinter
+
+## 🚀 Projeler
+
+- **[Depo Robotu Simülatörü](https://github.com/hibasaflo04/DepoRobotuProjesi)**: Python ve Tkinter ile geliştirilen depo robotu simülasyonu (takım projesi)
+
+## 📫 İletişim
+
+- E-posta: yusufkaratepekt@gmail.com
