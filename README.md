@@ -1,20 +1,35 @@
-# Merhaba, ben Yusuf 👋
+# Hi, I'm Yusuf 👋
 
-Kocaeli Sağlık ve Teknoloji Üniversitesi'nde (KOSTÜ) **Bilgisayar Mühendisliği** 2. sınıf öğrencisiyim. Yazılım geliştirmeyi, problem çözmeyi ve yeni teknolojiler öğrenmeyi seviyorum.
+I'm a second-year **Computer Engineering** student at Kocaeli Health and Technology University (KOSTÜ), Türkiye. I enjoy turning ideas into working software, mostly with C++ and Python, and I'm currently looking for a **software development internship for summer 2027**.
 
-## 🛠️ Teknolojiler
+## 🛠️ Tech
 
-- **Diller:** C++, Python
-- **Araçlar:** Git, GitHub, CMake, pytest, Matplotlib, Tkinter
+- **Languages:** C++, Python
+- **Tools:** Git, GitHub, CMake, pytest, Matplotlib, Tkinter
 
-## 🚀 Projeler
+## 🚀 Projects
 
-- **[Teslimat Rota Planlayıcı](https://github.com/ysufkaratepe/teslimat-rota-planlayici)**: Teslimat durakları için kısa rota hesaplayan Python projesi. En yakın komşu + 2-opt algoritmaları, rota grafiği ve testler. Almanya'daki kuryelik deneyimimden çıktı.
-- **[Terminal 2048](https://github.com/ysufkaratepe/terminal-2048)**: Terminalde oynanan renkli 2048 oyunu. C++17, Windows/Linux/macOS desteği, birim testleri ve GitHub Actions ile otomatik derleme
-- **[Araç Kiralama Sistemi](https://github.com/ysufkaratepe/arac-kiralama)**: C++ ile konsolda çalışan araç kiralama yönetim sistemi. Dosyaya kayıt, arama, girdi kontrolü ve birim testleri
-- **[Depo Robotu Simülatörü](https://github.com/hibasaflo04/DepoRobotuProjesi)**: Python ve Tkinter ile geliştirilen depo robotu simülasyonu (takım projesi)
+- **[Delivery Route Planner](https://github.com/ysufkaratepe/teslimat-rota-planlayici)**: Python tool that plans a short delivery route through all stops (nearest neighbour + 2-opt). Inspired by my summer as a delivery driver in Germany.
+- **[Terminal 2048](https://github.com/ysufkaratepe/terminal-2048)**: Colorful 2048 game for the terminal in C++17, with unit tests and automated builds on Windows, Linux and macOS.
+- **[Car Rental Management System](https://github.com/ysufkaratepe/arac-kiralama)**: Console car rental system in C++17 with file persistence, search, input validation and unit tests.
+- **[Warehouse Robot Simulator](https://github.com/hibasaflo04/DepoRobotuProjesi)**: Warehouse robot simulation built with Python and Tkinter (team project).
 
-## 📫 İletişim
+## 🌍 Beyond code
+
+- Board member (technical team) of the TEKNOFEST club at my university
+- Summer 2026: seasonal delivery driver in Worms, Germany
+- Languages: Turkish (native), English (professional), German (beginner)
+
+## 📫 Contact
 
 - LinkedIn: [yusuf-karatepe](https://www.linkedin.com/in/yusuf-karatepe-0720923a1/)
-- E-posta: yusufkaratepekt@gmail.com
+- Email: yusufkaratepekt@gmail.com
+
+---
+
+<details>
+<summary>🇹🇷 Türkçe özet</summary>
+
+Merhaba! KOSTÜ'de Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. C++ ve Python ile projeler geliştiriyorum, üniversitemin TEKNOFEST kulübünde teknik ekipte yer alıyorum ve 2027 yazı için yazılım geliştirme stajı arıyorum. Projelerim yukarıda; benimle LinkedIn veya e-posta üzerinden iletişime geçebilirsiniz.
+
+</details>
